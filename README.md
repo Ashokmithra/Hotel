@@ -1,7 +1,8 @@
 # Hotel
 Static Page
-![Screenshot (512)](https://user-images.githubusercontent.com/83507140/211359948-2f47fa25-b5d7-45a5-a835-d936dc840887.png)
-![Screenshot (513)](https://user-images.githubusercontent.com/83507140/211360212-0363a8c6-d9ba-41ab-a880-b5c053f597c7.png)
-![Screenshot (516)](https://user-images.githubusercontent.com/83507140/211360238-4a9c71f4-3c06-4226-8ba8-d16a431cd9cd.png)
-![Screenshot (514)](https://user-images.githubusercontent.com/83507140/211360256-d98323de-0ad7-4e39-8e31-1f3a6e8f535b.png)
-![Screenshot (515)](https://user-images.githubusercontent.com/83507140/211360272-4d4abc79-075a-4739-a2a3-59bc7c662c9e.png)
+
+![Screenshot (512)](https://user-images.githubusercontent.com/83507140/211361227-2084f161-3a15-47cc-a730-8738049a8af5.png)
+![Screenshot (513)](https://user-images.githubusercontent.com/83507140/211361239-0db896a5-6504-4f89-92a9-d39dff77bd5b.png)
+![Screenshot (516)](https://user-images.githubusercontent.com/83507140/211361259-71f631c5-7401-46ea-bd36-c43d97021ac3.png)
+![Screenshot (514)](https://user-images.githubusercontent.com/83507140/211361275-3fe735e2-893b-4665-ae61-1a79c39768c7.png)
+![Screenshot (515)](https://user-images.githubusercontent.com/83507140/211361298-d10c6b8f-3061-4092-844b-e732d362538c.png)
